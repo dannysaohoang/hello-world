@@ -1,3 +1,3 @@
 # hello-world
 
-If you're reading this in master, then the merging worked. Congrats! If not, try try again
+There's no such thing as safety! Unless you're an octopus on the moon.
